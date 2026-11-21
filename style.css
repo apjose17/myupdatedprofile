@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: 'Petit Formal Script', cursive;
+    font-family: 'Lora', Georgia, 'Times New Roman', serif;
     font-size: 1.05rem;
     background-color: #fcf9f5;
     color: #333333;
@@ -35,12 +35,14 @@ footer {
 
 /* Headings */
 h1 {
+    font-family: 'Petit Formal Script', 'Brush Script MT', cursive;
     font-size: 2.25rem;
     color: #a62b2b;
     margin-bottom: 0.25rem;
 }
 
 h2 {
+    font-family: 'Petit Formal Script', 'Brush Script MT', cursive;
     font-size: 1.6rem;
     color: #a62b2b;
     margin-top: 0;
@@ -48,6 +50,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'Petit Formal Script', 'Brush Script MT', cursive;
     font-size: 1.25rem;
     color: #a62b2b;
     margin-top: 0;
